@@ -1,3 +1,6 @@
+*MAILTO: brian@skeptoid.com; Please include as much supporting information as you have. Links to YouTube videos will not be watched, so write up a summary instead.*
+
+
 Dear Brian,
 
 I am impressed at how you take on kooky-sounding topics and give them a fair hearing. There’s a topic I’ve been looking into for the past year, and would love your sceptical perspective on: AI extinction risk.
