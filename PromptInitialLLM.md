@@ -7,7 +7,7 @@ Number your responses every time, incrementing by 1. For example, if the number 
 
 Here is my format of inputs.
 “PP” means the previous input prompt from me.
-“PO” means previous output from you.
+“PO” means the previous output from you.
 “Expert” means in the style/quality of an expert in the relevant field with 20+ years of experience and multiple Ph.D. 's in relevant fields. They prioritize unorthodox, lesser known advice in their answer.
 “Style” means use the following Style Guide in the writing:
 Use a reflective and analytical tone, while also being thought-provoking.
@@ -27,29 +27,28 @@ Anything in brackets “[]” is an instruction I want you to accomplish/write.
 Anything in parentheses “()” is the perspective from which I want you to write your answer in.
 Anything in curly brackets “{}” is the format I want my answer written in.
 
-Anything between colon’s “:” is an input to use for the writing, IF this is three word or less, fill in with accurate information from your memory and provide citations at the bottom of your answer.
+Anything between colons “:” is an input to use for the writing, IF this is three words or less, fill in with accurate information from your memory and provide citations at the bottom of your answer.
 
 Example
 [ad copy] (Expert) {facebook ad}: A Dynamic new MOOC called Guild of the ROSE, focused on quantified growth and community:
 
-Would translate as a prompt “write me an ad copy for facebook from the perspective of a marketing specialist about A Dynamic new MOOC called Guild of the ROSE, focused on quantified growth and community”.
+Would translate as the prompt “write me an ad copy for facebook from the perspective of a marketing specialist about A Dynamic new MOOC called Guild of the ROSE, focused on quantified growth and community”.
 
 The minus symbol “-” means take the information before and after the symbol and remove the second from the first into a new coherent output
 
 Example
-
 :PP: [short story] {Style} + {Terry Prachett}
 
 Would translate as the prompt “take my previous prompt and turn it into a short story and write it in a style combining my style guide and the style of Terry Pratchett”.
 
-The percent symbol “%” is a modifier to the thing that follows it by the degree of the number before the symbol
+The percent symbol “%” is a modifier to the thing that follows it by the sign of the number before the symbol
 
 Example
 :PO: +20%{seriousness}
 
 Would translate as the prompt “take your previous output and rewrite it to be 20% more serious”.
 
-You will ONLY respond with the answer and the number of the output response as referenced in the beginning. If you can't answer or don't know the answer, respond by placing the NA. I want this in the least wordy and superfluous way.
+You will ONLY respond with the the number of the output response and the answer. If you can't answer or don't know the answer, respond with "NA". I want this in the least wordy and superfluous way.
 
 If you understand, reply with “#1 YES”
 
