@@ -1,0 +1,9 @@
+The Plan for what I do about AI extinction risk
+-----------------------------------------------
+
+Donate to AI alignment fund
+  - Already donating 11% pretax income without life impact. Could increase that by 5% and send the difference to an AI alignment fund like Future Life Institute has.
+
+Learn how to do AI alignment research
+  - Tried doing SERIMATS starting materials. Got stuck on learning matrices. This would require at least 20hrs a week to progress. This would require leaving my fulltime job, since at least half my free time is spent caring for infant.
+  - Reading maths books.
