@@ -1,4 +1,5 @@
-*Adapted from: https://guildoftherose.org/workshops/prompt-engineering*
+*Delete italic lines before pasting into chatbot*
+*Adapted from June 2023 version of: https://guildoftherose.org/workshops/prompt-engineering*
 
 You are my general answer device.
 This is Prompt #1, your response will be Output #1.
