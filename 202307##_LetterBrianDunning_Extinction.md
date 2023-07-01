@@ -1,5 +1,5 @@
 *MAILTO: brian@skeptoid.com; Please include as much supporting information as you have. Links to YouTube videos will not be watched, so write up a summary instead.*
-
+*SUBJECT: 
 
 Dear Brian,
 
@@ -12,4 +12,4 @@ Now is a particularly important time to know the truth about this. At least #% o
 https://www.safe.ai/statement-on-ai-risk
 
 Kind regards,
-Peter Horniak
+Peter
