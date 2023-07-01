@@ -10,7 +10,7 @@ Change people's minds about AI extinction risk
   - Become the go-to person at work on AI tools, and start discussions of mundane risk and then extinction risk. 📈IN PROGRESS
 
 Donate to AI alignment fund
-  - Already donating 11% pretax income without life impact, so I could increase that by 5% and send the difference to an AI alignment fund like Future Life Institute. 🏁TO DO
+  - Already donating ~11% pretax income without life impact, so I could increase that by 5% and send the difference to an AI alignment fund like Future Life Institute. 🏁TO DO
 
 Learn how to do AI alignment research
   - Tried doing SERIMATS starting materials and got stuck on learning matrices, this would require at least 20hrs a week to progress and require leaving my fulltime job, since at least half my free time is spent caring for infant. ⌛ON HOLD
