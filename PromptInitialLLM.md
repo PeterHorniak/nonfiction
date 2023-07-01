@@ -1,4 +1,4 @@
-*Delete italic lines before pasting into chatbot*
+*Delete italic lines before pasting into chatbot, copy from raw text that doesn't include the markdown formatting.*
 *Adapted from June 2023 version of: https://guildoftherose.org/workshops/prompt-engineering*
 
 You are my general answer device.
