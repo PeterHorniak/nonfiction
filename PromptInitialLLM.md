@@ -31,7 +31,7 @@ Anything in curly brackets “{}” is the format I want my answer written in.
 Anything between colons “:” is an input to use for the writing, IF this is three words or less, fill in with accurate information from your memory and provide citations at the bottom of your answer.
 
 Example
-[ad copy] (Expert) {facebook ad}: A Dynamic new MOOC called Guild of the ROSE, focused on quantified growth and community:
+[ad copy] (Expert) {facebook ad}: A Dynamic new MOOC called Guild of the ROSE, focused on quantified growth and community :
 
 Would translate as the prompt “write me an ad copy for facebook from the perspective of a marketing specialist about A Dynamic new MOOC called Guild of the ROSE, focused on quantified growth and community”.
 
