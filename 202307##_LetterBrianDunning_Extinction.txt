@@ -1,15 +1,31 @@
+TODO: Expand the sources at the bottom to include the actual arguments around AI Extinction Risk.
+COMMENTS: This is when I started using ChatGPT to help write it.
 MAILTO: brian@skeptoid.com; Please include as much supporting information as you have. Links to YouTube videos will not be watched, so write up a summary instead.
 SUBJECT: Podcast Episode Request - AI Extinction Risk
 
 Dear Brian,
 
-I am impressed at how you take on kooky-sounding topics and give them a fair hearing. There’s a topic I’ve been looking into for the past year, and would love your sceptical perspective on: AI extinction risk.
+I hope this email finds you well. I am a long-time listener of Sceptoid. Your approach to investigating contentious topics has helped me clarify many issues. Today I am reaching out about a topic that's been on my mind for the past year: AI extinction risk.
 
-The claim is that aligning artificial intelligence to human goals is extremely difficult and needs to be prioritised over making AIs more capable. I find the claim logical, and supported by recent issues found in AIs. I am interested how you interpret the research and what conclusion you come to.
+The claim suggests that aligning artificial intelligence with human goals is an incredibly challenging task and should take precedence over enhancing AI capabilities. I find this claim logically sound, especially considering recent issues that have arisen with AI systems. I am curious to know your interpretation of the research on this topic and the conclusion you would draw.
 
-Now is a particularly important time to know the truth about this. The majority of AI researchers, superforecasters, and one of the most popular models for AI development agree "transformative AI is most likely in the period between about 10 and 40 years from now" (https://asteriskmag.com/issues/03/through-a-glass-darkly). This is concerning, because most notable AI scientists and notable figures signed the statement "Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war." (https://www.safe.ai/statement-on-ai-risk). 
+Now is a crucial time for people to be informed on AI extinction risk. According to a majority of AI researchers, superforecasters, and a prominent AI development model, "transformative AI is most likely in the period between about 10 and 40 years from now" (source: https://asteriskmag.com/issues/03/through-a-glass-darkly). This is concerning, as most notable AI scientists and many public figures have signed the statement "Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war." (source: https://www.safe.ai/statement-on-ai-risk). 
 
-I believe that your considered view would help people be informed, so the AI regulations many countries are proposing will include the will of the people. 
+I believe that your sceptic perspective would help people be informed. This would enable policymakers crafting AI regulations in many countries to incorporate the concerns and interests of the general population. Thank you for your time and consideration. 
 
 Kind regards,
 Peter
+
+
+Here are several sources that you may find useful:
+- An article summarizing attempts to forecast AI progress. The sources are surveys from 2016 and 2021 of AI experts, a forecasting tournament called Metaculus, and a report by the charity Open Philanthropy. 
+(https://asteriskmag.com/issues/03/through-a-glass-darkly).
+
+- A statement by AI experts and notable public figures that warns of AI extinction risk. It is purposely written to be short and clear, because previous criticisms of AI extinction risk claimed it had no backing by the AI industry.
+(https://www.safe.ai/statement-on-ai-risk)
+
+"Superintelligence: Paths, Dangers, Strategies" by Nick Bostrom
+This book explores the potential impact of artificial superintelligence on humanity. It presents various paths through which superintelligence could be achieved and examines the potential risks and dangers associated with its development.
+
+"Life 3.0: Being Human in the Age of Artificial Intelligence" by Max Tegmark
+This book examines the possibilities and challenges posed by AI, including its impact on the job market, ethics, and existential risks.
