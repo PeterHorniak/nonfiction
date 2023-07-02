@@ -7,9 +7,9 @@ I am impressed at how you take on kooky-sounding topics and give them a fair hea
 
 The claim is that aligning artificial intelligence to human goals is extremely difficult and needs to be prioritised over making AIs more capable. I find the claim logical, and supported by recent issues found in AIs. I am interested how you interpret the research and what conclusion you come to.
 
-Now is a particularly important time to know the truth about this. At least #% of the AI research field (which is broader than the AI alignment field) believes AGI will come within ## years (linkie). The US government is considering how to regulate AI development. If AI alignment is as difficult as suggested, then we need to strongly regulate its development. Conversely if alignment is easy, then we risk losing the innovation and wealth from AI.
+Now is a particularly important time to know the truth about this. The majority of AI researchers, superforecasters, and one of the most popular models for AI development agree "transformative AI is most likely in the period between about 10 and 40 years from now" (https://asteriskmag.com/issues/03/through-a-glass-darkly). This is concerning, because most notable AI scientists and notable figures signed the statement "Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war." (https://www.safe.ai/statement-on-ai-risk). 
 
-https://www.safe.ai/statement-on-ai-risk
+I believe that your considered view would help people be informed, so the AI regulations many countries are proposing will include the will of the people. 
 
 Kind regards,
 Peter
