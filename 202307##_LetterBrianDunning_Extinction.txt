@@ -5,13 +5,13 @@ SUBJECT: Podcast Episode Request - AI Extinction Risk
 
 Dear Brian,
 
-I hope this email finds you well. I am a long-time listener of Sceptoid. Your approach to investigating contentious topics has helped me clarify many issues. Today I am reaching out about a topic that's been on my mind for the past year: AI extinction risk.
+I hope this email finds you well. I am a long-time listener of Sceptoid. Your approach to investigating and presenting contentious topics has changed my beliefs. Today I am reaching out about a topic that's been on my mind for the past year: AI extinction risk.
 
 The claim suggests that aligning artificial intelligence with human goals is an incredibly challenging task and should take precedence over enhancing AI capabilities. I find this claim logically sound, especially considering recent issues that have arisen with AI systems. I am curious to know your interpretation of the research on this topic and the conclusion you would draw.
 
 Now is a crucial time for people to be informed on AI extinction risk. According to a majority of AI researchers, superforecasters, and a prominent AI development model, "transformative AI is most likely in the period between about 10 and 40 years from now" (source: https://asteriskmag.com/issues/03/through-a-glass-darkly). This is concerning, as most notable AI scientists and many public figures have signed the statement "Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war." (source: https://www.safe.ai/statement-on-ai-risk). 
 
-I believe that your sceptic perspective would help people be informed. This would enable policymakers crafting AI regulations in many countries to incorporate the concerns and interests of the general population. Thank you for your time and consideration. 
+I believe that your sceptic perspective would help inform the public. This would enable policymakers crafting AI regulations in many countries to incorporate the concerns and interests of the general population. Thank you for your time and consideration. 
 
 Kind regards,
 Peter
