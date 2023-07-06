@@ -8,6 +8,13 @@ The first paragraph is titled "More than just a textbook", and gives the generic
 If you are even more like me, you will find that it ACTUALLY DOES THE THING IT SAYS, and go back to find out why they think they got the magic working.
 
 
+
+Another time they introduce something sounding silly is the maths car. I went quickly through the exercise and rushed to the mathy stuff. I did find it useful though.
+You're meant to start imagining just some components on it, looked to me like <photoshop>. As you go through, you get explanations for what the components mean, and add new ones.
+
+
+
+
 THE BACKSTORY 
 
 Trigger warning: discusses maths, math education. I am not kidding about triggering.
@@ -28,7 +35,12 @@ Footnote for ** ं: i don't like swears. Could be i was raised never to swear. 
 yet want to capture the emotion of swears. 
 
 
+THE FULL MATHS CAR
+<Krita>
 
+
+LINKIES
+I wrote via Github. If you wanna see editing process in action, access via <link>.
 
 
 I am so grateful to the authors, that I will list every math error and prose typo in their book. I'm sure they will understand the compliment.
