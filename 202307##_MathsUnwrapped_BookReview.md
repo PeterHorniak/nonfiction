@@ -5,7 +5,7 @@
 THE REVIEW
 
 The first paragraph is titled "More than just a textbook", and gives the generic spiel of the wonderful world of mathematics and how much fun we will have. If you are like me, and tried many math books, you will skip this.
-If you are even more like me, you will find that it ACTUALLY DOES THE THING IT SAYS, and go back to find out why they think they got the magic working.
+If you are even more like me, you will find that it *ACTUALLY DOES THE THING IT SAYS*, and go back to find out why they think they got the magic working.
 
 
 
