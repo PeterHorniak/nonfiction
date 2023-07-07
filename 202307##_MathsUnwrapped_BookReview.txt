@@ -53,4 +53,5 @@ Also, typing these out on a phone keyboard was easy when realised we stole greek
 ERRATA
 
 EXERCISE 19.6
-2/π
+(2/π)+(√2/5)=(10/5π)+(√2π/5π)=(10+√2π)/(5π)
+Stated answer is (10+√2)/(5π)
