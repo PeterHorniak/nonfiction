@@ -1,6 +1,6 @@
-Maths Unwrapped: The Easy Way to Understand & Master Mathematics, by Mattias Ribbing
+**Maths Unwrapped: The Easy Way to Understand & Master Mathematics, by Mattias Ribbing**
 
-Trigger warning: discusses maths, math education.
+*Trigger warning: discusses maths, math education.*
 
 THE REVIEW
 
