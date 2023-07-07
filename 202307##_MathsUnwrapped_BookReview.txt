@@ -1,6 +1,7 @@
 - mention serimats extinction prep
 - also how want son to grow up math literate, and want to make maths a tool rather than just something to respect from afar
 - read up on Continuous Fractions, and add examples to https://simple.m.wikipedia.org/wiki/Continued_fraction
+- contact authors about how much of book can include in review, whether they plan 2nd edition 
 
 Maths Unwrapped: The Easy Way to Understand & Master Mathematics, by Mattias Ribbing
 
@@ -50,9 +51,20 @@ I wrote via Github. If you wanna see editing process in action, access via <link
 I am so grateful to the authors, that I will list every math error and prose typo in their book. I'm sure they will understand the compliment.
 Also thankyou to whoever vandalised the library book by adding correct solutions. Made me realise I was on right track. I was sorely tempted to add my own, but librarians would already be on lookout.
 Also, typing these out on a phone keyboard was easy when realised we stole greek letters for symbols.
+If you find a correction to my correction, please post it in the comments!
 
-ERRATA
+CORRECTION
 
 EXERCISE 19.6
-(2/π)+(√2/5)=(10/5π)+(√2π/5π)=(10+√2π)/(5π)
+2/π + sqrt(2)/5
+= (10/5π)+((√2)π/5π)
+= (10+(√2)π)/(5π)
 Stated answer is (10+√2)/(5π)
+
+EXERCISE 19.7
+1/(-π) + √2/2
+= (-1)/π + √2/2
+= (-2)/2π + (√2)π/2π
+= ((√2)π - 2)/2π
+Stated answer is -2 + √(2π)/2π
+
