@@ -71,6 +71,7 @@ EXERCISE 19.6, page 67
 2/π + sqrt(2)/5
 = (10/5π)+((√2)π/5π)
 = (10+(√2)π)/(5π)
+https://www.wolframalpha.com/input?i=%282%2Fπ%29%2B%28√2%2F5%29
 Stated answer is (10+√2)/(5π)
 
 EXERCISE 19.7, page 67
