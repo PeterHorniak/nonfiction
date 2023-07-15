@@ -5,10 +5,11 @@ Learn more about AI extinction risk
   - Read TheZvi weekly AI posts & linked content. 🔥📈IN PROGRESS
 
 Change people's minds about AI extinction risk
-  - Write letter to my Minister of Parliament asking her to read Yudkowsky Time article. 😊🎉DONE
+  - Write letter to my Minister of Parliament asking to read Yudkowsky Time article. 😊🎉DONE
   - Become a premium member on Sceptoid and write letter to Brian Dunning requesting episode on AI extinction risk. 😊🎉DONE
   - Become the go-to person at work on AI tools, and start discussions of mundane risk and then extinction risk. 🔥📈IN PROGRESS
-  - Write another letter to my Minister of Parliament asking her to read Safety AI sentence and FLI Pause paper. 🏁TO DO
+  - Review Australia’s AI Ethics Principles and respond to https://consult.industry.gov.au/supporting-responsible-ai
+  - Write another letter to my Minister of Parliament asking to read Safety AI sentence and FLI Pause paper. 🏁TO DO
 
 Donate to AI alignment fund
   - Already donating ~11% pretax income without life impact, so I could increase that by 5% and send the difference to an AI alignment fund like Future Life Institute. 🏁TO DO
