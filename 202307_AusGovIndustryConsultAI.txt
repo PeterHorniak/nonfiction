@@ -1,7 +1,13 @@
+Read up to page 4.
+
+Misc, not related to a specific question.
+- "AI is unique because it can take actions at a speed and scale that would otherwise be impossible." -> This misses the point that AI can combine more knowledge than any human can, leading to insights that humans are unlikely to make. 
+
+
 Definitions
 1. Do you agree with the definitions in this discussion paper? If not, what definitions do you prefer
 and why?
--> <answer>
+-> The definition for "Machine Learning" more closely applies to "Machine Learning Models" or "AI Models"
 
 
 
