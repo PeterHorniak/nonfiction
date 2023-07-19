@@ -2,6 +2,7 @@ Read up to page 7.
 
 Misc, not related to a specific question.
 - "AI is unique because it can take actions at a speed and scale that would otherwise be impossible." -> This misses the point that AI can combine more knowledge than any human can, leading to insights that humans are unlikely to make. 
+- Tracking and potentially restricting computer chips for large training runs seems best approach. Mention this in potential approaches.
 
 
 Definitions
