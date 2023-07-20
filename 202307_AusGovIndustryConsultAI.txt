@@ -4,6 +4,7 @@ Misc, not related to a specific question.
 - "AI is unique because it can take actions at a speed and scale that would otherwise be impossible." -> This misses the point that AI can combine more knowledge than any human can, leading to insights that humans are unlikely to make. 
 - Tracking and potentially restricting computer chips for large training runs seems best approach. Mention this in potential approaches.
 - Offer permanent residency to any AI researchers in countries that we expect to not follow multinational agreements? Would give us more control over research done onshore, and reduce the researchers available to those other countries. Would be worth it even ignoring the economic benefits of Australia being an AI hub.
+- need mandatory regulation , since openai and msoft and meta recklessly released models without safeguards 
 
 Definitions
 1. Do you agree with the definitions in this discussion paper? If not, what definitions do you prefer
