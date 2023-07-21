@@ -52,14 +52,24 @@ Target areas
 
 7. How can the Australian Government further support responsible AI practices in its own
 agencies?
+-> Have datasets available that are available for ai development without restrictions on use. Could be synthetic data. So devs can skip the data gathering stage.
+
 
 8. In what circumstances are generic solutions to the risks of AI most valuable? And in what circumstances are technology-specific solutions better? Please provide some examples.
+-> techspecific better when we know particular approach is dangerous , eg rlhf 
+-> generic better when we don't know specific thing to regulate yet.
+
+
 
 9. Given the importance of transparency across the AI lifecycle, please share your thoughts on:
 a. where and when transparency will be most critical and valuable to mitigate potential AI risks and to improve public trust and confidence in AI?
 -> training run details to compare model sizes
-b. mandating transparency requirements across the private and public sectors, including
-how these requirements could be implemented.
+-> redteaming results to be public
+
+b. mandating transparency requirements across the private and public sectors, including how these requirements could be implemented.
+-> 
+
+
 
 10. Do you have suggestions for:
 a. Whether any high-risk AI applications or technologies should be banned completely?
@@ -70,24 +80,27 @@ a. Whether any high-risk AI applications or technologies should be banned comple
 b. Criteria or requirements to identify AI applications or technologies that should be
 banned, and in which contexts?
 -> threshold of it becoming agentic. Need scientific consensus that a given tech will not become agentic.
--> 
+
 
 11. What initiatives or government action can increase public trust in AI deployment to encourage more people to use AI?
 -> require insurance for ai companies , with payouts going to victims 
-
+-> ubi, so even if all lose jobs, can still be better off
 
 
 Implications and infrastructure
 12. How would banning high-risk activities (like social scoring or facial recognition technology in certain circumstances) impact Australia’s tech sector and our trade and exports with other countries?
--> 
+-> cannot profit off selling them
+-> would make devs focus on other areas that might even be more profitable because the uses wont be banned later on.
 13. What changes (if any) to Australian conformity infrastructure might be required to support assurance processes to mitigate against potential AI risks?
--> 
+-> todo: lkp what is conformity infra
 
 
 
 Risk-based approaches
 14. Do you support a risk-based approach for addressing potential AI risks? If not, is there a better approach?
 -> combine with required insurances, let private insurance companies do additional diligence
+
+
 15. What do you see as the main benefits or limitations of a risk-based approach? How can any limitations be overcome?
 -> thresholds can be arbitrary 
 -> ai devs might not know what category their stuff falls under
