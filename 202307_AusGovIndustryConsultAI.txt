@@ -104,14 +104,16 @@ Risk-based approaches
 15. What do you see as the main benefits or limitations of a risk-based approach? How can any limitations be overcome?
 -> thresholds can be arbitrary 
 -> ai devs might not know what category their stuff falls under
+-> limitation is that something can be shortterm low risk and longterm high risk. What time horizons are for the assessment?
+-> when there is uncertainty, does it default as higher risk?
+
 
 16. Is a risk-based approach better suited to some sectors, AI applications or organisations than others based on organisation size, AI maturity and resources?
 ->
 
 17. What elements should be in a risk-based approach for addressing potential AI risks? Do you support the elements presented in Attachment C?
 
-18. How can an AI risk-based approach be incorporated into existing assessment frameworks (like
-privacy) or risk management processes to streamline and reduce potential duplication?
+18. How can an AI risk-based approach be incorporated into existing assessment frameworks (like privacy) or risk management processes to streamline and reduce potential duplication?
 
 19. How might a risk-based approach apply to general purpose AI systems, such as large language models (LLMs) or multimodal foundation models (MFMs)?
 -> hard to fo transparency on them due to inscrutable floating point matrices
