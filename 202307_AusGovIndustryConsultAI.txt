@@ -1,6 +1,20 @@
+*Definitions*
+1. Do you agree with the definitions in this discussion paper? If not, what definitions do you prefer
+and why?
+Answer: 
+The definition of "Artificial intelligence (AI)" does not mention agentic behaviour. Agentic behaviour is a key risk of future models. Could the definition please be expanded to "AI systems are designed to operate with
+varying levels of automation and agentic behaviour." 
+
+
+
+*Potential gaps in approaches*
+2. What potential risks from AI are not covered by Australia’s existing regulatory approaches? Do you have suggestions for possible regulatory action to mitigate these risks?
+Answer: 
+Australia's existing regulatory approaches focus on what happens after a model is deployed. These approaches do not address the risks that exist while training a model. It is possible for model to cause harm before deployment, for example by being stolen, leaked, or by it choosing to escape.
+Another risk is that currently Australia cannot stop the training of a model that has a high probability of being deployed in future and then causing harm. One approach to mitigate this risk is to require computer chips designed for AI training runs to be uniquely identifiable and trackable.
+
+
 Misc, not related to a specific question.
-- "AI is unique because it can take actions at a speed and scale that would otherwise be impossible." -> This misses the point that AI can combine more knowledge than any human can, leading to insights that humans are unlikely to make. 
-- Tracking and potentially restricting computer chips for large training runs seems best approach. Mention this in potential approaches.
 - Offer permanent residency to any AI researchers in countries that we expect to not follow multinational agreements? Would give us more control over research done onshore, and reduce the researchers available to those other countries. Would be worth it even ignoring the economic benefits of Australia being an AI hub.
 - need mandatory regulation , since openai and msoft and meta recklessly released models without safeguards 
 - AustEthicPrinciples
@@ -11,26 +25,14 @@ Misc, not related to a specific question.
 - page 24 mentions competition issues. We need to be reducing competition at the most powerful models, to prevent a race.
 - paper is focussed on deployed models, does not account for risk of just training a frontier model
 - add a column in risk assessment for historical behaviour of deployer? so reckless deployments cause extra scrutiny in future?
-
-
-
-
-Definitions
-1. Do you agree with the definitions in this discussion paper? If not, what definitions do you prefer
-and why?
--> The definition for "Machine Learning" more closely applies to "Machine Learning Models" or "AI Models"
--> The definition of "Artificial intelligence (AI)" does not mention agentic behaviour. Maybe this is covered by "operate with varying levels of automation". 
-
-
-Potential gaps in approaches
-2. What potential risks from AI are not covered by Australia’s existing regulatory approaches? Do you have suggestions for possible regulatory action to mitigate these risks?
--> does not cover a lab training a model with u safe techniques and/or an unusually large amount of compute, and having that model be stolen / be leaked / escape on its own.
+- Instead of general-purpose models, we should support domain-specific models. E.g. a model that can do programming should not also be taught bioengineering.
 
 3. Are there any further non-regulatory initiatives the Australian Government could implement to support responsible AI practices in Australia? Please describe these and their benefits or
 impacts.
 -> Visas for foreign AI researchers. Might even slightly reduce responsible ai practices in Australia, yet could prevent extremely irresponsible AI practices overseas
 -> support intl initiatives for tracking compute
 -> only procure ai services with trackable compute
+Supporting international initiatives to track computer chips designed for AI training runs, so that future regulation of them becomes possible.
 
 4. Do you have suggestions on coordination of AI governance across government? Please outline the goals that any coordination mechanisms could achieve and how they could influence the development and uptake of AI in Australia.
 -> Have shared registers of training datasets. Goal is to quickly identify info common to multiple ai models.
@@ -38,12 +40,12 @@ impacts.
 
 
 
-Responses suitable for Australia
+*Responses suitable for Australia*
 5. Are there any governance measures being taken or considered by other countries (including any not discussed in this paper) that are relevant, adaptable and desirable for Australia?
 -> outright banning per EU seems correct when uncertainty about catastrophic harms.
 
 
-Target areas
+*Target areas*
 6. Should different approaches apply to public and private sector use of AI technologies? If so, how should the approaches differ?
 -> private sector does most research, therefore is more risky and needs most focus on security 
 -> private sector also more slack on security so needs more focus
@@ -87,7 +89,7 @@ banned, and in which contexts?
 -> ubi, so even if all lose jobs, can still be better off
 
 
-Implications and infrastructure
+*Implications and infrastructure*
 12. How would banning high-risk activities (like social scoring or facial recognition technology in certain circumstances) impact Australia’s tech sector and our trade and exports with other countries?
 -> cannot profit off selling them
 -> would make devs focus on other areas that might even be more profitable because the uses wont be banned later on.
@@ -96,7 +98,7 @@ Implications and infrastructure
 
 
 
-Risk-based approaches
+*Risk-based approaches*
 14. Do you support a risk-based approach for addressing potential AI risks? If not, is there a better approach?
 -> combine with required insurances, let private insurance companies do additional diligence
 
