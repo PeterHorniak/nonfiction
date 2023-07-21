@@ -10,6 +10,10 @@ Misc, not related to a specific question.
 - AI safety newsletter #12 has relevant ideas 
 - page 24 mentions competition issues. We need to be reducing competition at the most powerful models, to prevent a race.
 - paper is focussed on deployed models, does not account for risk of just training a frontier model
+- add a column in risk assessment for historical behaviour of deployer? so reckless deployments cause extra scrutiny in future?
+
+
+
 
 Definitions
 1. Do you agree with the definitions in this discussion paper? If not, what definitions do you prefer
