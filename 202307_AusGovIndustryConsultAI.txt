@@ -21,24 +21,26 @@ Answer:
      Australia could support international initiatives for safe AI development such as tracking AI-specific chips. Australia could encourage domestic AI development to use only trackable compute. This would enable future regulation of AI chips if that becomes necessary.
 
 4. Do you have suggestions on coordination of AI governance across government? Please outline the goals that any coordination mechanisms could achieve and how they could influence the development and uptake of AI in Australia.
--> Have shared registers of training datasets. Goal is to quickly identify info common to multiple ai models.
--> public registers of ai companies and their safety ratings, to reward thr most safety-conscious. Would need a way to prevent goodharting for safety theatrr.
+Answer:
+     Agencies could use shared registers of resources for AI development. For example, a register of training datasets that identify what biases may be present. Any new models should be linked to which of those datasets were used to train it.
+     Agencies could also maintain public registers of AI companies and their safety ratings. This would reward the most safety-conscious companies. The safety ratings would need to be chosen so that they accurately reflect actual safety and don't become victims of Goodhart's law.
 
+*Responses suitable for Australia*
+5. Are there any governance measures being taken or considered by other countries (including any not discussed in this paper) that are relevant, adaptable and desirable for Australia?
+Answer:
+     No comment.
 
+*Target areas*
+6. Should different approaches apply to public and private sector use of AI technologies? If so, how should the approaches differ?
+Answer:
+     Yes. The majority of leading AI research is currently done by the private sector. This is where most risk exists, and should therefore be the main focus of risk mitigation. 
+The approaches should differ by 
 
 Misc, not related to a specific question.
 - add a column in risk assessment for historical behaviour of deployer? so reckless deployments cause extra scrutiny in future?
 - Instead of general-purpose models, we should support domain-specific models. E.g. a model that can do programming should not also be taught bioengineering.
+-  part of the risk from AI developments is that it is open-sourced and thereby allows unsafe actors to use the results. So we should require that research for capabilities should be closed source unless exemption provided. And research for alignment / safety can be open source.
 
-*Responses suitable for Australia*
-5. Are there any governance measures being taken or considered by other countries (including any not discussed in this paper) that are relevant, adaptable and desirable for Australia?
--> outright banning per EU seems correct when uncertainty about catastrophic harms.
-
-
-*Target areas*
-6. Should different approaches apply to public and private sector use of AI technologies? If so, how should the approaches differ?
--> private sector does most research, therefore is more risky and needs most focus on security 
--> private sector also more slack on security so needs more focus
 
 7. How can the Australian Government further support responsible AI practices in its own agencies?
 -> Have datasets available that are available for ai development without restrictions on use. Could be synthetic data. So devs can skip the data gathering stage.
