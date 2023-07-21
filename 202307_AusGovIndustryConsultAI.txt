@@ -32,20 +32,23 @@ impacts.
 -> support intl initiatives for tracking compute
 -> only procure ai services with trackable compute
 
-4. Do you have suggestions on coordination of AI governance across government? Please outline
-the goals that any coordination mechanisms could achieve and how they could influence the
-development and uptake of AI in Australia.
--> <answer>
+4. Do you have suggestions on coordination of AI governance across government? Please outline the goals that any coordination mechanisms could achieve and how they could influence the development and uptake of AI in Australia.
+-> Have shared registers of training datasets. Goal is to quickly identify info common to multiple ai models.
+-> public registers of ai companies and their safety ratings, to reward thr most safety-conscious. Would need a way to prevent goodharting for safety theatrr.
 
 
 
 Responses suitable for Australia
 5. Are there any governance measures being taken or considered by other countries (including any not discussed in this paper) that are relevant, adaptable and desirable for Australia?
-
+-> outright banning per EU seems correct when uncertainty about catastrophic harms.
 
 
 Target areas
 6. Should different approaches apply to public and private sector use of AI technologies? If so, how should the approaches differ?
+-> private sector does most research, therefore is more risky and needs most focus on security 
+-> private sector also more slack on security so needs more focus
+
+
 
 7. How can the Australian Government further support responsible AI practices in its own
 agencies?
