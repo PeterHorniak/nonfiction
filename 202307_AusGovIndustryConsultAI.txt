@@ -24,12 +24,13 @@ and why?
 
 Potential gaps in approaches
 2. What potential risks from AI are not covered by Australia’s existing regulatory approaches? Do you have suggestions for possible regulatory action to mitigate these risks?
--> <answer>
+-> does not cover a lab training a model with u safe techniques and/or an unusually large amount of compute, and having that model be stolen / be leaked / escape on its own.
 
-3. Are there any further non-regulatory initiatives the Australian Government could implement to
-support responsible AI practices in Australia? Please describe these and their benefits or
+3. Are there any further non-regulatory initiatives the Australian Government could implement to support responsible AI practices in Australia? Please describe these and their benefits or
 impacts.
--> <answer>
+-> Visas for foreign AI researchers. Might even slightly reduce responsible ai practices in Australia, yet could prevent extremely irresponsible AI practices overseas
+-> support intl initiatives for tracking compute
+-> only procure ai services with trackable compute
 
 4. Do you have suggestions on coordination of AI governance across government? Please outline
 the goals that any coordination mechanisms could achieve and how they could influence the
