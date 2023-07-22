@@ -112,3 +112,6 @@ Misc, to incorporate in above questions:
 - Instead of general-purpose models, we should support domain-specific models. E.g. a model that can do programming should not also be taught bioengineering.
 -  part of the risk from AI developments is that it is open-sourced and thereby allows unsafe actors to use the results. So we should encourage that research for capabilities should be closed source unless exemption provided. And research for alignment / safety can be open source.
 - have current focus on info gathering , so that we have clear picture of ai landscape for future restrictions, once we know what things are likely dangerous?
+    -> cloud providers to make available to gov the billing records for ai compute.
+    -> companies to preregister trainiruns above a certain compute threshold 
+   -> if company doing many small training runs that collectively go over threshold, them to report it, and gov to have way to verify it.
