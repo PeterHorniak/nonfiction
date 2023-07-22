@@ -76,6 +76,7 @@ Answer:
      Cloud providers should make billing records for AI supercompute available to law enforcement. 
      Companies should have a government register available to preregister training runs above a given supercompute threshold. If a company is using that supercompute across multiple smaller training runs, then third-party auditors should have access to verify this.
      Law enforcement should have efficient communications available to cloud and compute providers for when malicious models need to be turned off. For example, when a political misinformation campaign is detected.
+     Models need provenance to ensure that they have not been manipulated to answer specific prompts differently, and then shared on a model hub under the guise of being the original model (https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/).
 
 *Risk-based approaches*
 14. Do you support a risk-based approach for addressing potential AI risks? If not, is there a better approach?
