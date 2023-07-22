@@ -111,3 +111,4 @@ Misc, to incorporate in above questions:
 - add a column in risk assessment for historical behaviour of deployer? so reckless deployments cause extra scrutiny in future?
 - Instead of general-purpose models, we should support domain-specific models. E.g. a model that can do programming should not also be taught bioengineering.
 -  part of the risk from AI developments is that it is open-sourced and thereby allows unsafe actors to use the results. So we should encourage that research for capabilities should be closed source unless exemption provided. And research for alignment / safety can be open source.
+- have current focus on info gathering , so that we have clear picture of ai landscape for future restrictions, once we know what things are likely dangerous?
