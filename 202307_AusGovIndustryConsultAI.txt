@@ -91,7 +91,10 @@ Answer:
 
 17. What elements should be in a risk-based approach for addressing potential AI risks? Do you support the elements presented in Attachment C?
 Answer:
-     I believe the elements in Attachment C are necessary yet not sufficient. There needs to be a licensing scheme for allowing AI models beyond a certain threshold to be trained and/or deployed.
+     I believe the elements in Attachment C are necessary yet not sufficient. 
+     There needs to be a licensing scheme for allowing AI models beyond a certain threshold to be trained and/or deployed. 
+     There also needs to be consideration of the past behaviour of companies and their developers, since a safety culture can take a long time to establish.
+     For a given use case, general-purpose models should have a higher risk level than domain-specific models. In the use case of generative AI in educational settings to assess the performance of teachers and students, a model that was only trained on educational materials relevant to a specific field, is less risky than a model trained on all educational materials that are publicly available.
 
 18. How can an AI risk-based approach be incorporated into existing assessment frameworks (like privacy) or risk management processes to streamline and reduce potential duplication?
 Answer:
@@ -106,15 +109,9 @@ a. public or private organisations or both?
 b. developers or deployers or both?
 Answer:
      It should be mandated, apply to both public and private organisations, and apply to both developers and deployers.
-     We have already seen many examples of reckless behaviour by AI companies: OpenAI publishing the architecture for GPT-3, Microsoft deploying Bing Chat aka Sydney in an obviously unaligned state, and Meta losing the LLaMa model on 4chan. 
-
-, apply to all. Developers can have cruddy security and have their tech stolen and misused , and then be responsible for consequences. 
-- need mandatory regulation , since openai and msoft and meta recklessly released models without safeguards 
-
+     We have already seen examples of AI companies failing at self-regulation: OpenAI publishing the architecture for GPT-3, Microsoft deploying Bing Chat aka Sydney in an obviously unaligned state, and Meta losing the LLaMa model on 4chan. 
 
 Misc, to incorporate in above questions:
-- add a column in risk assessment for historical behaviour of deployer? so reckless deployments cause extra scrutiny in future?
-- Instead of general-purpose models, we should support domain-specific models. E.g. a model that can do programming should not also be taught bioengineering.
 -  part of the risk from AI developments is that it is open-sourced and thereby allows unsafe actors to use the results. So we should encourage that research for capabilities should be closed source unless exemption provided. And research for alignment / safety can be open source.
 - have current focus on info gathering , so that we have clear picture of ai landscape for future restrictions, once we know what things are likely dangerous?
     -> cloud providers to make available to gov the billing records for ai supercompute.
