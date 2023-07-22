@@ -1,5 +1,3 @@
-TODO: Review AI safety newsletter #12 on US discussion paper.
-
 *Definitions*
 1. Do you agree with the definitions in this discussion paper? If not, what definitions do you prefer
 and why?
@@ -57,22 +55,22 @@ Answer:
 a. Whether any high-risk AI applications or technologies should be banned completely?
 b. Criteria or requirements to identify AI applications or technologies that should be banned, and in which contexts?
 Answer:
-     There should be a ban on AI models that use more compute than GPT-4, until the scientific consensus is that such models are extremely unlikely to cause catastrophic outcomes.
+     There should be a ban on AI models that use more compute than GPT-4, until the scientific consensus is that our alignment methods are sufficient to prevent catastrophic outcomes. An example of an alignment method that is unlikely to work on more powerful models is Reinforcement Learning From Human Feedback (RLHF).
      There should also be a ban on autonomous weapons used by police or border protection.
--> pentesting
--> training methods that are whackamole by design, eg RLHF
--> threshold of it becoming agentic. Need scientific consensus that a given tech will not become agentic.
-
 
 11. What initiatives or government action can increase public trust in AI deployment to encourage more people to use AI?
--> require insurance for ai companies , with payouts going to victims 
--> ubi, so even if all lose jobs, can still be better off
-
+Answer:
+     Require licensing for training or deploying models beyond a certain size in supercompute. 
+     Require AI companies to get insurance that is specifically for damage caused by their AI models. The amount of insurance should be proportional to the size of the models being used.
+     Provide a safety net for people who lose their jobs due to AI advancements, for example a form of Universal Basic Income.
 
 *Implications and infrastructure*
 12. How would banning high-risk activities (like social scoring or facial recognition technology in certain circumstances) impact Australia’s tech sector and our trade and exports with other countries?
+Answer:
+      
 -> cannot profit off selling them
 -> would make devs focus on other areas that might even be more profitable because the uses wont be banned later on.
+
 13. What changes (if any) to Australian conformity infrastructure might be required to support assurance processes to mitigate against potential AI risks?
 -> todo: lkp what is conformity infra
 
@@ -117,3 +115,5 @@ Misc, to incorporate in above questions:
    -> if company doing many small training runs that collectively go over threshold, them to report it, and gov to have way to verify it.
 - law enforcement should have direct line to cloud and compute providers to turn off malicious use of models. For after they are deployed and doing inference.
 Have chips detect via their firmware whether they are being used for training run. And if not got license code, then shut down to prevent the training.
+- Add links to relevant papers, e.g. https://arxiv.org/abs/2303.11341
+- Review AI safety newsletter #12, on US request for comments on same topic.
