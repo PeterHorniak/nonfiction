@@ -82,11 +82,8 @@ Answer:
 15. What do you see as the main benefits or limitations of a risk-based approach? How can any limitations be overcome?
 Answer:
      Some of the greatest risks are currently theoretical and might not have clear identifying features.
-     thresholds can be arbitrary 
--> ai devs might not know what category their stuff falls under
--> limitation is that something can be shortterm low risk and longterm high risk. What time horizons are for the assessment?
--> when there is uncertainty, does it default as higher risk?
-
+     A risk-based approach assumes all impacted people have the same risk tolerance. There could be some groups with a higher risk tolerance. For example, patients with a terminal disease may be willing to undergo robotic surgery that has undergone less testing than is required for the general public.
+    Some risks can be low in the short-term, and become a higher risk over the longer-term. The approach would need to either combine both in the initial assessment, or periodically review the assigned risk.
 
 16. Is a risk-based approach better suited to some sectors, AI applications or organisations than others based on organisation size, AI maturity and resources?
 ->
