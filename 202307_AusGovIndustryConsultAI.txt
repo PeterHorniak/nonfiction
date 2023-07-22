@@ -116,3 +116,4 @@ Misc, to incorporate in above questions:
     -> companies to preregister trainiruns above a certain supercompute threshold 
    -> if company doing many small training runs that collectively go over threshold, them to report it, and gov to have way to verify it.
 - law enforcement should have direct line to cloud and compute providers to turn off malicious use of models. For after they are deployed and doing inference.
+Have chips detect via their firmware whether they are being used for training run. And if not got license code, then shut down to prevent the training.
