@@ -95,14 +95,20 @@ Answer:
 
 18. How can an AI risk-based approach be incorporated into existing assessment frameworks (like privacy) or risk management processes to streamline and reduce potential duplication?
 Answer:
+     No comment.
 
 19. How might a risk-based approach apply to general purpose AI systems, such as large language models (LLMs) or multimodal foundation models (MFMs)?
--> hard to fo transparency on them due to inscrutable floating point matrices
+Answer:
+     General purpose AI systems are more difficult to align due to their enhanced capabilities. They are also more risky to deploy, because they are not limited to just one risky domain. General purpose AI systems should be considered to have a higher risk level, or conversely domain-specific systems should be considered to have a lower risk level.
 
 20. Should a risk-based approach for responsible AI be a voluntary or self-regulation tool or be mandated through regulation? And should it apply to:
 a. public or private organisations or both?
 b. developers or deployers or both?
--> mandated, apply to all. Developers can have cruddy security and have their tech stolen and misused , and then be responsible for consequences. 
+Answer:
+     It should be mandated, apply to both public and private organisations, and apply to both developers and deployers.
+     We have already seen many examples of reckless behaviour by AI companies: OpenAI publishing the architecture for GPT-3, Microsoft deploying Bing Chat aka Sydney in an obviously unaligned state, and Meta losing the LLaMa model on 4chan. 
+
+, apply to all. Developers can have cruddy security and have their tech stolen and misused , and then be responsible for consequences. 
 - need mandatory regulation , since openai and msoft and meta recklessly released models without safeguards 
 
 
