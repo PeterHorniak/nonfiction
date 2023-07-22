@@ -55,12 +55,12 @@ Answer:
 
 10. Do you have suggestions for:
 a. Whether any high-risk AI applications or technologies should be banned completely?
--> models of bigger size than gpt4
--> autonomous weapon use in police and border protection 
+b. Criteria or requirements to identify AI applications or technologies that should be banned, and in which contexts?
+Answer:
+     There should be a ban on AI models that use more compute than GPT-4, until the scientific consensus is that such models are extremely unlikely to cause catastrophic outcomes.
+     There should also be a ban on autonomous weapons used by police or border protection.
 -> pentesting
 -> training methods that are whackamole by design, eg RLHF
-b. Criteria or requirements to identify AI applications or technologies that should be
-banned, and in which contexts?
 -> threshold of it becoming agentic. Need scientific consensus that a given tech will not become agentic.
 
 
