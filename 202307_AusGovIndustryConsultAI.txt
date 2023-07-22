@@ -34,16 +34,14 @@ Answer:
 6. Should different approaches apply to public and private sector use of AI technologies? If so, how should the approaches differ?
 Answer:
      Yes. The majority of leading AI research is currently done by the private sector. This is where most risk exists, and should therefore be the main focus of risk mitigation. 
-The approaches should differ by 
-
-Misc, not related to a specific question.
-- add a column in risk assessment for historical behaviour of deployer? so reckless deployments cause extra scrutiny in future?
-- Instead of general-purpose models, we should support domain-specific models. E.g. a model that can do programming should not also be taught bioengineering.
--  part of the risk from AI developments is that it is open-sourced and thereby allows unsafe actors to use the results. So we should encourage that research for capabilities should be closed source unless exemption provided. And research for alignment / safety can be open source.
-
+     TODO: describe how approach should differ.
 
 7. How can the Australian Government further support responsible AI practices in its own agencies?
--> Have datasets available that are available for ai development without restrictions on use. Could be synthetic data. So devs can skip the data gathering stage.
+Answer:
+     Make datasets available for AI development that are already high-quality and documented. These can be made of synthetic data to avoid privacy risk. This will let AI developers spend less time on data-gathering.
+
+
+
 
 8. In what circumstances are generic solutions to the risks of AI most valuable? And in what circumstances are technology-specific solutions better? Please provide some examples.
 -> techspecific better when we know particular approach is dangerous , eg rlhf 
@@ -111,3 +109,9 @@ a. public or private organisations or both?
 b. developers or deployers or both?
 -> mandated, apply to all. Developers can have cruddy security and have their tech stolen and misused , and then be responsible for consequences. 
 - need mandatory regulation , since openai and msoft and meta recklessly released models without safeguards 
+
+
+Misc, to incorporate in above questions:
+- add a column in risk assessment for historical behaviour of deployer? so reckless deployments cause extra scrutiny in future?
+- Instead of general-purpose models, we should support domain-specific models. E.g. a model that can do programming should not also be taught bioengineering.
+-  part of the risk from AI developments is that it is open-sourced and thereby allows unsafe actors to use the results. So we should encourage that research for capabilities should be closed source unless exemption provided. And research for alignment / safety can be open source.
