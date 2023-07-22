@@ -49,7 +49,7 @@ Answer:
      b. mandating transparency requirements across the private and public sectors, including how these requirements could be implemented.
 Answer:
      For a), transparency will be most critical when describing the data used to train models, and the results of safety testing on the models.
-     For b), transparency should not lead to releasing info that can speed up capabilities development across the industry. The focus should be on making safety research available across the industry.
+     For b), transparency requirements should not lead to releasing info that can speed up capabilities development across the industry. Publicly available source code or architecture allows bad actors to use them in unsafe ways. The focus should be on making safety research available publicly, dual-use research discouraged from public release, and capabilities research only published when an exemption is granted.
 
 10. Do you have suggestions for:
 a. Whether any high-risk AI applications or technologies should be banned completely?
@@ -73,6 +73,9 @@ Answer:
 Answer:
      Standardised measures will need to be agreed on to determine the power of AI models. For example, should it be based on number of parameters, or number of GPUs used to train them.
      A new licensing scheme will be needed to determine which organisations are allowed to start training runs or operate models beyond a certain threshold.
+     Cloud providers should make billing records for AI supercompute available to law enforcement. 
+     Companies should have a government register available to preregister training runs above a given supercompute threshold. If a company is using that supercompute across multiple smaller training runs, then third-party auditors should have access to verify this.
+     Law enforcement should have efficient communications available to cloud and compute providers for when malicious models need to be turned off. For example, when a political misinformation campaign is detected.
 
 *Risk-based approaches*
 14. Do you support a risk-based approach for addressing potential AI risks? If not, is there a better approach?
@@ -112,12 +115,5 @@ Answer:
      We have already seen examples of AI companies failing at self-regulation: OpenAI publishing the architecture for GPT-3, Microsoft deploying Bing Chat aka Sydney in an obviously unaligned state, and Meta losing the LLaMa model on 4chan. 
 
 Misc, to incorporate in above questions:
--  part of the risk from AI developments is that it is open-sourced and thereby allows unsafe actors to use the results. So we should encourage that research for capabilities should be closed source unless exemption provided. And research for alignment / safety can be open source.
-- have current focus on info gathering , so that we have clear picture of ai landscape for future restrictions, once we know what things are likely dangerous?
-    -> cloud providers to make available to gov the billing records for ai supercompute.
-    -> companies to preregister trainiruns above a certain supercompute threshold 
-   -> if company doing many small training runs that collectively go over threshold, them to report it, and gov to have way to verify it.
-- law enforcement should have direct line to cloud and compute providers to turn off malicious use of models. For after they are deployed and doing inference.
-Have chips detect via their firmware whether they are being used for training run. And if not got license code, then shut down to prevent the training.
 - Add links to relevant papers, e.g. https://arxiv.org/abs/2303.11341
 - Review AI safety newsletter #12, on US request for comments on same topic.
