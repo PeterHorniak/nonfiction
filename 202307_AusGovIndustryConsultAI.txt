@@ -67,22 +67,22 @@ Answer:
 *Implications and infrastructure*
 12. How would banning high-risk activities (like social scoring or facial recognition technology in certain circumstances) impact Australia’s tech sector and our trade and exports with other countries?
 Answer:
-      
--> cannot profit off selling them
--> would make devs focus on other areas that might even be more profitable because the uses wont be banned later on.
+     No comment.
 
 13. What changes (if any) to Australian conformity infrastructure might be required to support assurance processes to mitigate against potential AI risks?
--> todo: lkp what is conformity infra
-
-
+Answer:
+     Standardised measures will need to be agreed on to determine the power of AI models. For example, should it be based on number of parameters, or number of GPUs used to train them.
+     A new licensing scheme will be needed to determine which organisations are allowed to start training runs or operate models beyond a certain threshold.
 
 *Risk-based approaches*
 14. Do you support a risk-based approach for addressing potential AI risks? If not, is there a better approach?
--> combine with required insurances, let private insurance companies do additional diligence
-
+Answer:
+     Yes.
 
 15. What do you see as the main benefits or limitations of a risk-based approach? How can any limitations be overcome?
--> thresholds can be arbitrary 
+Answer:
+     Some of the greatest risks are currently theoretical and might not have clear identifying features.
+     thresholds can be arbitrary 
 -> ai devs might not know what category their stuff falls under
 -> limitation is that something can be shortterm low risk and longterm high risk. What time horizons are for the assessment?
 -> when there is uncertainty, does it default as higher risk?
