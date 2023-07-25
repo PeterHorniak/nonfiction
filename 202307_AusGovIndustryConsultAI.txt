@@ -156,10 +156,12 @@ Answer:
 
 17. What elements should be in a risk-based approach for addressing potential AI risks? Do you support the elements presented in Attachment C?
 Answer:
-     I believe the elements in Attachment C are necessary yet not sufficient. 
-     There needs to be a licensing scheme for allowing AI models beyond a certain threshold to be trained and/or deployed. 
-     There also needs to be consideration of the past behaviour of companies and their developers, since a safety culture can take a long time to establish.
-     For a given use case, general-purpose models should have a higher risk level than domain-specific models. In the use case of generative AI in educational settings to assess the performance of teachers and students, a model that was only trained on educational materials relevant to a specific field, is less risky than a model trained on all educational materials that are publicly available.
+     The elements presented in Attachment C form a solid base for a risk-based approach to addressing potential AI risks. However, some additional elements could further strengthen this approach:
+     1. Licensing Scheme for AI Training and Deployment: A licensing scheme could be implemented for the training and/or deployment of AI models beyond a certain threshold. This would help ensure that only responsible and qualified entities are developing and using high-powered AI models.
+     2. Consideration of Past Behavior: The past behavior of companies and their developers should be considered when assessing risk. This includes adherence to ethical guidelines, previous incidents or violations, and overall safety culture. A safety culture can take a long time to establish and is a crucial element of responsible AI use. One example is OpenAI, whose safety culture was so lax that many key employees left to found the company Anthropic, with a primary goal being a proper safety culture.
+     3. Risk Levels for General-Purpose vs. Domain-Specific Models: Risk assessments should take into account the type of AI model being used. General-purpose models, which are trained on a wide range of data and can be used in many different contexts, might be more risky than domain-specific models that are trained and used in a narrower context. 
+     4. Continuous Monitoring and Adjustment: A risk-based approach should include mechanisms for continuous monitoring of AI systems and adjusting risk assessments and mitigation strategies as new information becomes available or as the context changes.
+     Incorporating these additional elements into a risk-based approach could provide a more comprehensive and effective way to manage the potential risks of AI.
 
 18. How can an AI risk-based approach be incorporated into existing assessment frameworks (like privacy) or risk management processes to streamline and reduce potential duplication?
 Answer:
