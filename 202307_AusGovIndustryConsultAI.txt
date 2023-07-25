@@ -148,7 +148,11 @@ Answer:
 
 16. Is a risk-based approach better suited to some sectors, AI applications or organisations than others based on organisation size, AI maturity and resources?
 Answer:
-     No comment.
+     Yes.
+     1. Organizational Size: Larger organizations with more resources may be better equipped to implement a risk-based approach. They have the capacity to conduct comprehensive risk assessments, implement sophisticated risk management strategies, and continuously monitor and adjust their approach based on changing risks. Smaller organizations, on the other hand, might find a risk-based approach more challenging due to limited resources, but could still benefit from a simplified or scaled-down version of the approach.
+     2. AI Maturity: Organizations with more mature AI technologies may also be better suited to a risk-based approach. They have a better understanding of the capabilities and limitations of their AI systems, which enables them to more accurately assess and manage risks. In contrast, organizations with less mature AI technologies may face greater uncertainty, making risk assessment and management more challenging.
+     3. Sector-Specific Considerations: A risk-based approach may be particularly beneficial in sectors where the potential risks of AI are high. For example, in healthcare, where AI decisions can directly impact patient health and safety, a risk-based approach can focus on ensuring the greatest potential harms are not enacted.
+     4. Resource Availability: Organizations with more resources can dedicate the necessary time, personnel, and financial resources to managing AI risks. This includes investing in risk assessment tools, training for staff, and continuous monitoring and adjustment of AI systems to manage risks effectively.
 
 17. What elements should be in a risk-based approach for addressing potential AI risks? Do you support the elements presented in Attachment C?
 Answer:
