@@ -45,8 +45,11 @@ Answer:
 *Target areas*
 6. Should different approaches apply to public and private sector use of AI technologies? If so, how should the approaches differ?
 Answer:
-     Yes. The majority of leading AI research is currently done by the private sector. This is where most risk exists, and should therefore be the main focus of risk mitigation. 
-     TODO: describe how approach should differ.
+     Yes, different approaches should apply to public and private sector use of AI technologies due to the inherent differences in their objectives, accountability structures, and the nature of the data they handle.
+     The private sector, particularly leading AI research organizations, is primarily driven by innovation and competitiveness. They handle a large volume of data, much of which is proprietary, and often operate under commercial confidentiality. Therefore, the focus for private sector AI should be on ethical data handling, privacy protection, and promoting transparency and accountability in AI systems. Regulations and guidelines should be designed to foster innovation while ensuring responsible AI use. The private sector currently controls the most powerful foundational models, and therefore should have the most scrutiny to mitigate catastrophic and existential risk.
+     In contrast, the public sector is primarily concerned with public service delivery and policy implementation. They handle sensitive personal data and are directly accountable to the public. Therefore, the focus for public sector AI should be on maintaining public trust, ensuring the highest level of data security, and making AI systems as transparent and understandable as possible. Public sector AI use should be guided by principles that prioritize public interest and welfare.
+     Moreover, public sector AI can serve as a role model for responsible AI practices. The government has an opportunity to lead by example in demonstrating best practices for AI use, such as ensuring fairness, transparency, and robustness.
+     However, while the approaches should differ, there should also be a level of cooperation and knowledge sharing between the public and private sectors. Joint initiatives, partnerships, and dialogue between the two sectors can lead to better outcomes for all stakeholders.
 
 7. How can the Australian Government further support responsible AI practices in its own agencies?
 Answer:
