@@ -1,5 +1,6 @@
 *General Comment*
-It is good that the government is publicly consulting on this issue and is aware of the near-term risks. It is concerning that the discussion paper does not mention catastrophic nor existential risks. A mature AI strategy would take such risks into account and focus on learning more about them and mitigating them. An AI commission would be a good initial step.
+     It's commendable that the Australian Government is proactively consulting on AI risks and regulatory strategies. However, it's crucial to also consider potential catastrophic or existential risks. Policies should not only address near-term AI impacts, but also understand and mitigate longer-term risks.
+     The establishment of an AI commission could be a beneficial initial step. This body could oversee the implementation of these strategies, coordinate efforts across different sectors and organizations, and ensure that Australia's approach to AI is comprehensive, effective, and forward-looking.
 
 *Definitions*
 1. Do you agree with the definitions in this discussion paper? If not, what definitions do you prefer
