@@ -120,12 +120,14 @@ Answer:
 
 13. What changes (if any) to Australian conformity infrastructure might be required to support assurance processes to mitigate against potential AI risks?
 Answer:
-     Standardised measures will need to be agreed on to determine the power of AI models. For example, should it be based on number of parameters, or number of GPUs used to train them.
-     A new licensing scheme will be needed to determine which organisations are allowed to start training runs or operate models beyond a certain threshold.
-     Cloud providers should make billing records for AI supercompute available to law enforcement. 
-     Companies should have a government register available to preregister training runs above a given supercompute threshold. If a company is using that supercompute across multiple smaller training runs, then third-party auditors should have access to verify this.
-     Law enforcement should have efficient communications available to cloud and compute providers for when malicious models need to be turned off. For example, when a political misinformation campaign is detected.
-     Models need provenance to ensure that they have not been manipulated to answer specific prompts differently, and then shared on a model hub under the guise of being the original model (https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/).
+     To mitigate potential AI risks, several changes might be needed in Australian conformity infrastructure:
+     1. Standardized Measures for AI Power: Standardized measures to determine the power of AI models would need to be established. This could be based on various factors such as the number of parameters, the amount of compute used for training, or other relevant measures. Consensus on these standards would need to be achieved through consultation with industry and academic experts.
+     2. Licensing Scheme for AI Training and Operation: A new licensing scheme might be necessary for organizations intending to start training runs or operate models beyond a certain threshold of power or risk. This would ensure that only qualified and responsible entities are developing and using high-powered AI systems.
+     3. Cloud Provider Compliance: Cloud providers should be required to make billing records for AI supercompute usage available to regulatory and law enforcement agencies. This would allow these agencies to track and monitor the use of AI compute resources.
+     4. Government Register for AI Training Runs: Companies could be required to preregister AI training runs above a certain supercompute threshold in a government register. To ensure compliance, third-party auditors could be given access to verify the usage of supercompute resources.
+     5. Efficient Communications for Law Enforcement: Systems could be put in place to allow efficient communication between law enforcement and cloud/compute providers. This would enable quick action in cases where AI models are being used maliciously, such as in political misinformation campaigns.
+     6. Provenance for AI Models: Measures should be implemented to ensure the provenance of AI models. This would help prevent the dissemination of manipulated models, as highlighted by the PoisonGPT research example, where a model was modified to spread misinformation. Provenance tracking would ensure that AI models are correctly attributed and their origins traceable.
+     By implementing these changes, Australia can strengthen its conformity infrastructure to better manage the risks associated with AI technologies and ensure responsible AI practices across the board.
 
 *Risk-based approaches*
 14. Do you support a risk-based approach for addressing potential AI risks? If not, is there a better approach?
