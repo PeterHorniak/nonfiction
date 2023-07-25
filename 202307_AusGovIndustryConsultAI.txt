@@ -136,9 +136,15 @@ Answer:
 
 15. What do you see as the main benefits or limitations of a risk-based approach? How can any limitations be overcome?
 Answer:
-     Some of the greatest risks are currently theoretical and might not have clear identifying features.
-     A risk-based approach assumes all impacted people have the same risk tolerance. There could be some groups with a higher risk tolerance. For example, patients with a terminal disease may be willing to undergo robotic surgery that has undergone less testing than is required for the general public.
-    Some risks can be low in the short-term, and become a higher risk over the longer-term. The approach would need to either combine both in the initial assessment, or periodically review the assigned risk.
+  The main benefits of a risk-based approach to AI governance include its flexibility and its focus on the most significant issues. This approach allows regulations and controls to be tailored to the specific risks posed by different AI technologies or applications. It allows us to concentrate our resources on the areas of greatest concern.
+     However, there are also several limitations:
+     1. Theoretical Risks: Some of the greatest risks from AI are currently theoretical and might not have clear identifying features. This makes it challenging to assess these risks accurately and to develop effective mitigation strategies.
+     2. Variable Risk Tolerance: A risk-based approach often assumes a uniform risk tolerance across all individuals and groups. However, different people and groups may have different levels of risk tolerance. For example, patients with a terminal disease might be more willing to accept risks associated with an experimental treatment.
+     3. Short-Term vs. Long-Term Risks: Some risks might be low in the short term but become much higher over the long term. A risk-based approach needs to take both short-term and long-term risks into account, which can be challenging.
+     To overcome these limitations, several strategies can be employed:
+     1. Regular Risk Reviews: Risks should be reviewed regularly to account for new information, changes in context, and the emergence of new risks. This would ensure that the risk assessments remain accurate and relevant over time.
+     2. Stakeholder Input: Different stakeholders should be involved in the risk assessment process to account for different perspectives and risk tolerances. This could include AI developers, users, and people who could be affected by the AI system.
+     3. Precautionary Approach: For theoretical or long-term risks that are difficult to quantify, a precautionary approach might be appropriate. This could involve implementing safeguards and controls even in the absence of clear evidence of harm, to ensure that potential risks are mitigated.
 
 16. Is a risk-based approach better suited to some sectors, AI applications or organisations than others based on organisation size, AI maturity and resources?
 Answer:
