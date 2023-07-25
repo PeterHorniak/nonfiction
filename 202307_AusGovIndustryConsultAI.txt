@@ -1,3 +1,6 @@
+*General Comment*
+It is good that the government is publicly consulting on this issue and is aware of the near-term risks. It is concerning that the discussion paper does not mention catastrophic nor existential risks. A mature AI strategy would take such risks into account and focus on learning more about them and mitigating them. An AI commission would be a good initial step.
+
 *Definitions*
 1. Do you agree with the definitions in this discussion paper? If not, what definitions do you prefer
 and why?
