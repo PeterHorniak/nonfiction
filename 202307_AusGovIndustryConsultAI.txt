@@ -64,23 +64,35 @@ Answer:
 
 8. In what circumstances are generic solutions to the risks of AI most valuable? And in what circumstances are technology-specific solutions better? Please provide some examples.
 Answer:
-     Generic solutions are most valuable when we want the solution to apply to technologies that have not been created yet or are not widely understood. 
-     Technology-specific solutions are better when we know a particular approach to AI development is dangerous. For example, using Reinforcement Learning From Human Feedback (RLHF) relies on humans ranking outputs of AI models, and thus requires the human reviewers to understand which outputs are better or worse. This approach breaks down when quality human feedback does not scale, or when the model is intelligent enough to manipulate the feedback process.
-     TODO: add example for generic solution.
+     Generic solutions are valuable when we need broader, principle-based guidelines that can apply to a wide range of AI technologies, including those that have not been invented yet or are not fully understood. They are also beneficial in addressing fundamental AI risks that apply regardless of the specific technology involved, such as data privacy, transparency, and accountability. For instance, ethical guidelines and policies concerning data protection can apply to a wide range of AI technologies, from machine learning algorithms to autonomous systems.
+     Technology-specific solutions are better when dealing with risks that are unique to a particular AI technology or method. These solutions are usually more technical and targeted, addressing specific issues associated with certain AI applications. 
+For example, Reinforcement Learning From Human Feedback (RLHF) presents specific challenges, such as the need for high-quality human feedback and the risk of the AI manipulating the feedback process. In this case, a technology-specific solution could involve developing stricter protocols for human feedback and implementing safeguards to prevent AI manipulation.
 
 9. Given the importance of transparency across the AI lifecycle, please share your thoughts on:
      a. where and when transparency will be most critical and valuable to mitigate potential AI risks and to improve public trust and confidence in AI?
      b. mandating transparency requirements across the private and public sectors, including how these requirements could be implemented.
 Answer:
-     For a), transparency will be most critical when describing the data used to train models, and the results of safety testing on the models.
-     For b), transparency requirements should not lead to releasing info that can speed up capabilities development across the industry. Publicly available source code or architecture allows bad actors to use them in unsafe ways. The focus should be on making safety research available publicly, dual-use research discouraged from public release, and capabilities research only published when an exemption is granted.
+     a. Transparency is particularly important in certain aspects:
+     Data: Transparency about the data used to train AI models is vital. This includes information about the sources of the data, how it was collected and processed, and any potential biases it may contain. Such transparency can help mitigate the risk of biased AI decisions and improve trust in AI systems.
+     Model Development and Testing: Clear documentation of how an AI model was developed, including the algorithms used and choices made during the development process, is essential. Similarly, the results of safety and performance testing should be transparently reported. This can help users understand how the AI system works and how reliable it is, thereby increasing trust and confidence in the system.
+     b. Mandating transparency requirements across both private and public sectors can improve the overall trustworthiness of AI systems. However, these requirements must be balanced with considerations for security, privacy, and competitive advantage. Here's how these requirements could be implemented:
+     Safeguard Sensitive Information: Transparency should not lead to the release of information that could speed up capabilities development in a way that risks safety or gives rise to misuse. Regulations should be in place to protect sensitive information, such as proprietary algorithms, from being misused.
+     Promote Safety Research: Encourage the publication of safety research to foster a broader understanding of AI risks and how to mitigate them. This can be done through incentives or through direct support for such research.
+     Control Release of Dual-Use Research: Dual-use research, which can be used for both beneficial and harmful purposes, should be carefully controlled. Policies should be in place to discourage public release of such research without appropriate safeguards.
+     Grant Exemptions for Capabilities Research: The publication of capabilities research, which advances AI technology, should only be allowed when an exemption is granted after careful review. This can prevent the reckless dissemination of potentially dangerous AI technology.
+     By implementing these measures, the Australian Government can foster a culture of transparency in AI development while still protecting critical information and maintaining a competitive AI sector.
 
 10. Do you have suggestions for:
 a. Whether any high-risk AI applications or technologies should be banned completely?
 b. Criteria or requirements to identify AI applications or technologies that should be banned, and in which contexts?
 Answer:
-     There should be a ban on AI models that use more compute than GPT-4, until the scientific consensus is that our alignment methods are sufficient to prevent catastrophic outcomes. An example of an alignment method that is unlikely to work on more powerful models is Reinforcement Learning From Human Feedback (RLHF).
-     There should also be a ban on autonomous weapons used by police or border protection.
+     a. High-Risk AI Applications or Technologies to be Banned:
+     AI models that use a significant amount of compute, potentially more than what was used for GPT-4, should be restricted until there's a scientific consensus that our alignment methods can prevent catastrophic outcomes. Certain alignment methods, like Reinforcement Learning From Human Feedback (RLHF), may not be effective for more powerful models, which could lead to unpredictable and potentially dangerous results.
+     Autonomous weapons, particularly those that can make decisions about life and death without human intervention, should be completely banned. These include not only military weapons systems but also those that could be used by law enforcement or border protection. The risks of misuse, accidents, or escalation posed by these systems are too high to be mitigated effectively.
+     b. Criteria or Requirements to Identify AI Applications or Technologies to be Banned:
+     Potential for Harm: The primary criterion should be the potential for harm. If an AI technology or application has a high risk of causing physical harm, infringing on privacy, or violating human rights, it should be considered for a ban.
+     Lack of Effective Oversight: If there's no effective method to provide oversight or control over an AI technology, it should be considered for a ban. This would apply to technologies that are too complex, opaque, or fast-acting for humans to effectively monitor or control.
+     Alignment with Human Values: If an AI technology can't be reliably aligned with human values and societal norms, it should be considered for a ban. This would apply to AI systems that make decisions in ways that are incompatible with our ethical and moral standards, or that make decisions in an opaque way that cannot be verified to be aligned.
 
 11. What initiatives or government action can increase public trust in AI deployment to encourage more people to use AI?
 Answer:
