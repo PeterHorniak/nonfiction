@@ -165,19 +165,24 @@ Answer:
 
 18. How can an AI risk-based approach be incorporated into existing assessment frameworks (like privacy) or risk management processes to streamline and reduce potential duplication?
 Answer:
-     No comment.
+     Incorporating an AI risk-based approach can be done through a few key steps, with the aim of streamlining procedures and reducing potential duplication:
+     1. Integration with Existing Risk Management Processes: AI risks can be integrated into an organization's existing risk management processes. This would involve identifying where AI risks overlap with other types of risks, such as cybersecurity, privacy, and operational risks, and addressing them within the same risk management framework. This could streamline processes and ensure a consistent approach to risk management across the organization.
+     2. Alignment with Existing Assessment Frameworks: AI risk assessment should align with existing assessment frameworks, such as those for privacy or data protection. For instance, the process of assessing the privacy risks of an AI system could be incorporated into an organization's existing privacy impact assessment (PIA) processes. This would allow for the identification and mitigation of privacy risks specific to AI within an established framework.
+     3. Shared Responsibility: Responsibility for AI risk management should be shared across different roles and departments within an organization, rather than being the sole responsibility of a specific AI or data science team. This could ensure that AI risks are considered as part of all relevant decision-making processes and reduce the risk of duplication. Conversely, having shared responsibility may cause no one person or team to own the AI risk.
 
 19. How might a risk-based approach apply to general purpose AI systems, such as large language models (LLMs) or multimodal foundation models (MFMs)?
 Answer:
-     General purpose AI systems are more difficult to align due to their enhanced capabilities. They are also more risky to deploy, because they are not limited to just one risky domain. General purpose AI systems should be considered to have a higher risk level, or conversely domain-specific systems should be considered to have a lower risk level.
+     A risk-based approach would involve several considerations:
+     1. Higher Risk Levels: General-purpose AI systems, due to their broad capabilities and potential applications, inherently pose higher risks compared to domain-specific systems. They have the potential to generate outputs or actions that could be harmful or inappropriate in various contexts. Therefore, they should be subject to a higher level of scrutiny and control under a risk-based approach.
+     2. Robust Testing: Given the wide range of potential outputs from general-purpose AI systems, robust testing is crucial. This includes testing the system's responses to a wide variety of inputs, across different domains and scenarios, to identify potential risks and mitigate them before deployment. Testing should consider how the system might behave outside the training distribution, i.e. in the real world.
+     3. Transparency and Explainability: It's important to make the workings of these models as transparent and understandable as possible. This can help users, regulators, and the public to understand the potential risks and benefits of these systems, and to make informed decisions about their use.
+     4. User Education: Users of these systems should be educated about their potential risks and limitations, and how to use them responsibly. This can help to prevent misuse and to ensure that users are prepared to handle any unexpected outputs or actions from the system.
 
 20. Should a risk-based approach for responsible AI be a voluntary or self-regulation tool or be mandated through regulation? And should it apply to:
 a. public or private organisations or both?
 b. developers or deployers or both?
 Answer:
-     It should be mandated, apply to both public and private organisations, and apply to both developers and deployers.
-     We have already seen examples of AI companies failing at self-regulation: OpenAI publishing the architecture for GPT-3, Microsoft deploying Bing Chat aka Sydney in an obviously unaligned state, and Meta losing the LLaMa model on 4chan. 
-
-Misc, to incorporate in above questions:
-- Add links to relevant papers, e.g. https://arxiv.org/abs/2303.11341
-- Review AI safety newsletter #12, on US request for comments on same topic.
+     A risk-based approach for responsible AI should be mandated through regulation, rather than being left as a voluntary or self-regulation tool. This is because the potential risks associated with AI are significant and could impact society in profound ways. Relying on voluntary adherence or self-regulation may not be sufficient to ensure that all organizations take the necessary precautions.
+     The mandated approach should apply to both public and private organizations. The potential risks of AI are not confined to one sector or type of organization, and thus all organizations that develop or use AI should be held to the same standards. Public organizations, as representatives of the state, have a particular responsibility to use AI responsibly. Private organizations, which often lead the way in AI development, also have a significant responsibility to ensure that their technologies are safe and beneficial.
+     Both developers and deployers of AI should be covered by the mandated risk-based approach. Developers have a responsibility to ensure that the AI systems they create are safe, reliable, and ethical. Deployers, who often have direct control over how AI systems are used and who may use them in ways not anticipated by the developers, also have a responsibility to ensure that these systems are used responsibly.
+     The argument for mandatory regulation is supported by past instances where AI companies have struggled with self-regulation. There have been notable cases where companies like OpenAI, Microsoft, and Meta have faced challenges in managing the risks associated with their AI technologies. These examples illustrate the limitations of self-regulation and underline the need for a more structured, regulatory approach.
