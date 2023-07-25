@@ -96,14 +96,27 @@ Answer:
 
 11. What initiatives or government action can increase public trust in AI deployment to encourage more people to use AI?
 Answer:
-     Require licensing for training or deploying models beyond a certain size in supercompute. 
-     Require AI companies to get insurance that is specifically for damage caused by their AI models. The amount of insurance should be proportional to the size of the models being used.
-     Provide a safety net for people who lose their jobs due to AI advancements, for example a form of Universal Basic Income.
+   The Australian Government can increase public trust in AI deployment and encourage its wider use through several initiatives:
+     1. Licensing for AI Systems: Requiring licenses for training or deploying large-scale AI models could help ensure that only qualified and responsible entities are able to develop and use these powerful technologies.
+     2. Mandatory AI Insurance: Requiring AI companies to hold insurance specifically for damage caused by their AI models could provide a financial safety net for individuals or businesses harmed by these systems. The amount of insurance should be proportionate to the potential risks posed by the AI models being used.
+     3. Social Safety Nets: Providing social safety nets, such as a form of Universal Basic Income, for people displaced by AI advancements could help alleviate public concerns about job losses due to AI, thereby increasing trust in AI technologies.
+     4. Public Engagement: Engaging the public in discussions about AI use can help build trust and ensure that AI systems are being developed and used in a manner consistent with societal values and expectations.
+     5. Education and Awareness: Implementing educational programs and awareness campaigns about AI can help increase public understanding of this technology, its benefits, and its risks. An informed public is more likely to trust and use AI technologies.
+     6. Transparency: Promoting transparency in AI development and use can also foster trust. This could include clear communication about how AI systems work, what data they use, and how they make decisions.
+     7. Robust Testing and Auditing: Implementing robust testing and auditing procedures for AI systems can help ensure they're reliable and safe, which can increase public trust.
+     These initiatives could contribute to a more responsible and trustworthy AI environment, thereby encouraging more people to use AI.
 
 *Implications and infrastructure*
 12. How would banning high-risk activities (like social scoring or facial recognition technology in certain circumstances) impact Australia’s tech sector and our trade and exports with other countries?
 Answer:
-     No comment.
+     Banning high-risk activities could have both positive and negative impacts. On the positive side, these bans could:
+     1. Elevate Australia's Reputation: Australia could be seen as a global leader in ethical AI practices. This could attract ethical investors and businesses, potentially spurring growth in the tech sector.
+     2. Promote Trust: Banning high-risk AI activities could increase public trust in AI technologies, potentially driving adoption and innovation in safer AI applications.
+     3. Attract Talent: This could make Australia a desirable place for AI researchers who are concerned about the ethical implications of their work, attracting top talent to the country's tech sector.
+     Potential negative impacts are:
+     1. Limit Innovation: Such bans could limit innovation in the tech sector. Companies may move to other countries with less stringent regulations, leading to a loss of business and talent.
+     2. Reduce Competitiveness: Australia might be less competitive in the global AI market, potentially impacting trade and exports. Some international partners may be reluctant to engage with a country that has strict bans on certain AI technologies.
+     3. Influence Trade Relations: Depending on how these bans are viewed by other nations, they could either strengthen or weaken trade relations. Countries that value ethical AI practices may see Australia as a preferred trade partner, while others may see these bans as a barrier to trade.
 
 13. What changes (if any) to Australian conformity infrastructure might be required to support assurance processes to mitigate against potential AI risks?
 Answer:
