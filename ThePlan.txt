@@ -8,7 +8,7 @@ Change people's minds about AI extinction risk
   - Write letter to my Minister of Parliament asking to read Yudkowsky Time article. 😊🎉DONE
   - Become a premium member on Sceptoid and write letter to Brian Dunning requesting episode on AI extinction risk. 😊🎉DONE
   - Become the go-to person at work on AI tools, and start discussions of mundane risk and then extinction risk. 🔥📈IN PROGRESS
-  - Review Australia’s AI Ethics Principles and respond to https://consult.industry.gov.au/supporting-responsible-ai
+  - Review Australia’s AI Ethics Principles and respond to https://consult.industry.gov.au/supporting-responsible-ai 😊🎉DONE
   - Write another letter to my Minister of Parliament asking to read Safety AI sentence and FLI Pause paper. 🏁TO DO
 
 Donate to AI alignment fund
@@ -16,4 +16,5 @@ Donate to AI alignment fund
 
 Learn how to do AI alignment research
   - Tried doing SERIMATS starting materials and got stuck on learning matrices, this would require at least 20hrs a week to progress and require leaving my fulltime job, since at least half my free time is spent caring for infant. 🔒⌛ON HOLD
+   - Learn about sigmoid function, 3blue1brown linear algebra
   - Reading general intro maths books. I'm a quarter of the way through Maths Unwrapped by Ribbing & Sundin. 🔥📈IN PROGRESS
