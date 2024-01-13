@@ -17,6 +17,7 @@ Donate to AI alignment fund
 Learn how to do AI alignment research
   - SERI MATS course. Independently completed Session 1 modules 1-5.
   - Neural Networks And Deep Learning book & coding. On chapter 2, completed up to Warm Up.
+  - OpenAI Spinning Up. On Part 1, need to review logarithms and trig functions.
   - 3blue1brown linear algebra videos.
   - Reading general intro maths books. 
     - I'm a quarter of the way through Maths Unwrapped by Ribbing & Sundin. 🔥📈IN PROGRESS
